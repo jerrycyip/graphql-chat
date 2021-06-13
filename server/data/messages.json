@@ -3,5 +3,145 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "S1UNxUWsu",
+    "from": "alice",
+    "text": "hi all"
+  },
+  {
+    "id": "B13Bg8Wi_",
+    "from": "alice",
+    "text": "how are you?"
+  },
+  {
+    "id": "rk9uaYZoO",
+    "from": "alice",
+    "text": "just testing out the client"
+  },
+  {
+    "id": "HyPCzj-od",
+    "from": "alice",
+    "text": "hello again"
+  },
+  {
+    "id": "BJ6R7iWsu",
+    "from": "bob",
+    "text": "hey Alice!  This is Bob"
+  },
+  {
+    "id": "Bk4yVobs_",
+    "from": "bob",
+    "text": "Hello bob!"
+  },
+  {
+    "id": "HkOfVibo_",
+    "from": "alice",
+    "text": "how's it going Bob?  Stop talking to yourself and talk to me = )"
+  },
+  {
+    "id": "rJZEEoZs_",
+    "from": "bob",
+    "text": "lol"
+  },
+  {
+    "id": "SkuNNobjd",
+    "from": "alice",
+    "text": "j/k ; )"
+  },
+  {
+    "id": "ByAZsn-od",
+    "from": "alice",
+    "text": "seriously, how have you been?"
+  },
+  {
+    "id": "rkQQj3bj_",
+    "from": "bob",
+    "text": "not too bad!"
+  },
+  {
+    "id": "SJRQjhWsu",
+    "from": "alice",
+    "text": "oh that's great to hear = )"
+  },
+  {
+    "id": "B1WWARZo_",
+    "from": "bob",
+    "text": "testing"
+  },
+  {
+    "id": "BkEGRA-ju",
+    "from": "bob",
+    "text": "hey there"
+  },
+  {
+    "id": "r13tARbjO",
+    "from": "bob",
+    "text": "hello again"
+  },
+  {
+    "id": "HyqcRC-ou",
+    "from": "bob",
+    "text": "what's happening"
+  },
+  {
+    "id": "ryUiARZsu",
+    "from": "bob",
+    "text": "not much eh?"
+  },
+  {
+    "id": "BJi0CCWi_",
+    "from": "charlie",
+    "text": "wasssup!"
+  },
+  {
+    "id": "Hk8xJyMsu",
+    "from": "charlie",
+    "text": "how's it going?!"
+  },
+  {
+    "id": "S1vSkkGsu",
+    "from": "alice",
+    "text": "hey hey!"
+  },
+  {
+    "id": "H1RL1kGju",
+    "from": "bob",
+    "text": "I'm back!"
+  },
+  {
+    "id": "SJxwxyfjd",
+    "from": "bob",
+    "text": "yo yo"
+  },
+  {
+    "id": "SyQ3OpGod",
+    "from": "alice",
+    "text": "hello"
+  },
+  {
+    "id": "SkxjXN7iO",
+    "from": "alice",
+    "text": "testing"
+  },
+  {
+    "id": "r1HxNE7iO",
+    "from": "bob",
+    "text": "test 2"
+  },
+  {
+    "id": "Sk_eNEXo_",
+    "from": "bob",
+    "text": "it's working now!"
+  },
+  {
+    "id": "Hyl-4NQjO",
+    "from": "alice",
+    "text": "yay!"
+  },
+  {
+    "id": "ByG-VN7j_",
+    "from": "alice",
+    "text": "all fixed = )"
   }
 ]
