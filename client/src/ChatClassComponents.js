@@ -1,3 +1,6 @@
+// code below is for using class components 
+// making graphql requests using apollo client directly via queries.js
+// as opposed to using @apollo/client 
 import React, { Component } from 'react';
 import { addMessage, getMessages, onMessageAdded } from './graphql/queries';
 import MessageInput from './MessageInput';

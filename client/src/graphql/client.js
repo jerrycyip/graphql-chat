@@ -1,6 +1,3 @@
-// import {
-//   ApolloClient, ApolloLink, HttpLink, InMemoryCache
-// } from 'apollo-boost';
 import {
   ApolloClient, ApolloLink, HttpLink, InMemoryCache, split
   } from "@apollo/client";
