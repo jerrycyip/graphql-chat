@@ -143,5 +143,95 @@
     "id": "ByG-VN7j_",
     "from": "alice",
     "text": "all fixed = )"
+  },
+  {
+    "id": "SyBnnWEsu",
+    "from": "bob",
+    "text": "testing"
+  },
+  {
+    "id": "S1Khn-Eiu",
+    "from": "bob",
+    "text": "working so far = )"
+  },
+  {
+    "id": "BJ_62WEiu",
+    "from": "alice",
+    "text": "hey hey!"
+  },
+  {
+    "id": "SJX0hZVj_",
+    "from": "alice",
+    "text": "back again"
+  },
+  {
+    "id": "rJHbpZVoO",
+    "from": "bob",
+    "text": "hey hey again"
+  },
+  {
+    "id": "B1kfT-Nsd",
+    "from": "bob",
+    "text": "app is still working w/out old dependencies"
+  },
+  {
+    "id": "ByVX6bEid",
+    "from": "alice",
+    "text": "hello"
+  },
+  {
+    "id": "Bk1rp-Nid",
+    "from": "bob",
+    "text": "yup!"
+  },
+  {
+    "id": "rJVhaW4od",
+    "from": "bob",
+    "text": "all working still!"
+  },
+  {
+    "id": "SydPKvVs_",
+    "from": "bob",
+    "text": "one"
+  },
+  {
+    "id": "B1lebONjd",
+    "from": "bob",
+    "text": "testing"
+  },
+  {
+    "id": "SJNlWO4jO",
+    "from": "bob",
+    "text": "test 2"
+  },
+  {
+    "id": "B1MbWd4iu",
+    "from": "bob",
+    "text": "hello world"
+  },
+  {
+    "id": "SJCbWuVou",
+    "from": "alice",
+    "text": "hello world"
+  },
+  {
+    "id": "By1L-OEid",
+    "from": "bob",
+    "text": "hey Alice!"
+  },
+  {
+    "id": "SJ05WOVsO",
+    "from": "alice",
+    "text": "hi bob"
+  },
+  {
+    "id": "Sy8s-_4sO",
+    "from": "bob",
+    "text": "suuup"
+  },
+  {
+    "id": "SyYoZu4o_",
+    "from": "bob",
+    "text": "woot woot"
   }
 ]
