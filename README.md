@@ -1,3 +1,3 @@
-# GraphQL Chat Sample
+# GraphQL Chat App
 
-Sample chat app used in the [GraphQL by Example course](https://www.udemy.com/course/graphql-by-example/) using Node.js, Express, Apollo Server, React, React-Hooks, and Apollo Client.
+ Chat app used in the [GraphQL by Example course](https://www.udemy.com/course/graphql-by-example/) using Node.js, Express, Apollo Server, React, React-Hooks, and Apollo Client.
